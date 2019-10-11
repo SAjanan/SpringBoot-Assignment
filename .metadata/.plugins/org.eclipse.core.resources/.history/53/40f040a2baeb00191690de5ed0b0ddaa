@@ -1,0 +1,5 @@
+package com.Ajanan.DefectTracker.repository;
+
+public interface DefectRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.Ajanan.DefectTracker.model;
+
+public class Defect {
+
+}
